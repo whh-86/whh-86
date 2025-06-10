@@ -8,10 +8,11 @@ I'm Han Wang | 王菡
 ---
 
 ### 🧠 Research Interests
-- 🎤 Speech Emotion Recognition with Graph Neural Networks
-- 🎥 Multimodal Emotion Recognition (Audio + Facial Expression)
-- 🤖 Human-Centered AI and Affective Computing
-- 🧩 Deep Learning for Emotion Analysis in Conversational Contexts
+- 🎤 Speech Emotion Recognition  
+- 🕸️ Graph Neural Networks (GNNs)  
+- 🎥 Multimodal Emotion Recognition in Conversations  
+- 🤖 Human-Centered AI and Affective Computing  
+- 🔍 Deep Learning for Emotion Analysis in Dialogues  
 
 ---
 
@@ -27,7 +28,7 @@ I'm Han Wang | 王菡
 ---
 
 ### 💡 Projects & Achievements
-- 🧪 Participated in **2 National-Level AI Projects** funded by NRF & IITP (Korea)
+- 🧪 Participated in **2 National-Level AI Projects** funded by NRF & IITP (Korea Government)
 - 🧠 Core contributor to *XVoice: Multimodal Speech Meta-Learning*
 - 🛠 Patent holder: *AI-based Outdoor EV Charging Pile*  
 - 🥇 Winner: National University Computer Challenge (China), 2021
