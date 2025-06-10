@@ -14,11 +14,11 @@
 ---
 
 ### 📝 Selected Publications
-- **Graph Neural Network-Based Speech Emotion Recognition**, *Electronics*, 2024 (SCI, 1st author)  
-- **Hybrid GCN-GAT for SER**, *Journal of Next Generation Computing*, 2024 (KCI, 1st author)  
-- **Multimodal Emotion Recognition with Feature-level Fusion**, *ICNGC 2024* (2nd author)  
-- **Emotion Recognition via GNN**, *KINGPC Conference 2024* (1st author)  
-
+- **Graph Neural Network-Based Speech Emotion Recognition: A Fusion of Skip Graph Convolutional Networksand Graph Attention Networks**, *Electronics*, 2024 
+- **Enhancing Speech Emotion Recognition with Hybrid Graph Neural Networks: A GCN-GAT Framework**, *Journal of Next Generation Computing*, 2024 
+- **Multimodal Emotion Recognition based on Feature-level fusion of Facial Expression-Audio Modalities**, *ICNGC 2024* 
+- **Emotion Recognition in Speech Signals through Graph Neural Networks Integration:A GCN-GAT Hybrid Model**, *KINGPC Conference 2024* 
+- **Multimodal Emotion Recognition with LLM-Driven Psychological Insight**， *CHI workshop 2025*
 
 📌 My research has been accepted or presented at CHI, ICNGC, KINGPC, etc.
 
