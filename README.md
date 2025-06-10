@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Han Wang | 王菡
 
 🎓 Master's student at Inha University, South Korea  
-🔬 Research area: Speech Emotion Recognition (SER), Multimodal Emotion Recognition (MER)  
+🔬 Research area: Speech Emotion Recognition (SER), Multimodal Emotion Recognition in Conversations(ERC)  
 📚 Previous degree: B.Eng. in Software Engineering, Zhengzhou University of Light Industry  
 
 ---
