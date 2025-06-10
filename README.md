@@ -2,7 +2,6 @@
 
 🎓 Master's student at Inha University, South Korea  
 🔬 Research area: Speech Emotion Recognition (SER), Multimodal Emotion Recognition in Conversations(ERC)  
-📚 Previous degree: B.Eng. in Software Engineering, Zhengzhou University of Light Industry  
 
 ---
 
